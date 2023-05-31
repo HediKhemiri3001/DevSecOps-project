@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:HediKhemiri3001/DevSecOps-app-back.git
+[submodule "client"]
+	path = client
+	url = git@github.com:HediKhemiri3001/DevSecOps-app-client.git
